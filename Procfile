@@ -1,0 +1,1 @@
+web: node lab1.js
